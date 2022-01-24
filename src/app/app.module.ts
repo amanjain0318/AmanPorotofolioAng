@@ -7,7 +7,6 @@ import { HomeBlogComponent } from './home-blog/home-blog.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
-  schemas: [CUSTOM_ELEMENTS_SCHEMA], 
   declarations: [
     AppComponent,
     HomeBlogComponent
